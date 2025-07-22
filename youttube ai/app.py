@@ -5,7 +5,7 @@ from fastapi import FastAPI
 app=FastAPI()
 
 # ✅ Replace with your actual API key
-GEMINI_API_KEY = "AIzaSyDqLhg9XbdAJlGA4N8Z6Yrb00j7yr9W64M"
+GEMINI_API_KEY = "YOUR_ACTUAL_GEMINI_API"
 
 # 🔧 Configure Gemini
 genai.configure(api_key=GEMINI_API_KEY)
