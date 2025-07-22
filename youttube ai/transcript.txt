@@ -1,0 +1,335 @@
+0.00s: Hi everyone! I'm Fraz, an ex- Google engineer and founder of Learnyard.
+3.76s: Now many of your colleges would be reopening.
+6.79s: Some would have got admission in BCA, some in B.Tech
+9.59s: some would have got tier 1 college & lot of people would have got tier 3 colleges.
+
+13.09s: But no need to take tension. The fact that you are on this video - this means that you're trying to find such
+19.09s: videos. From now itself you're tensed about how to spen the net 3-4 years.
+23.16s: So you are already in the right direction.
+25.22s: But before we discuss roadmap, let me tell you about myself.
+28.41s: So since last 4-5 years, I've guided lot of students, mentored lot of students
+32.86s: through my personal experiences, through my youtube channel.
+35.79s: And the close example among them is of my sister.
+38.97s: So I started teaching her coding. She had no background in coding.
+42.64s: She was in electrical engineering branch in college. So basically, I had to focus on that as well so that
+46.66s: she gets CGPA there as well & she also had to do coding alongside.
+49.30s: But by the end of college, before my she was able to crack 2 good companies
+53.81s: which are Microsoft & Amazon.
+55.60s: Currently she is working at Microsoft. So basically, I'm going to guide you step-by-step
+212.30s: earlier he got placed at VISA, which is also a good company.
+214.96s: Harsh also came to Google, Amit was already working there. Jitesh also came to Google
+219.29s: so basically, this depicts how much power your peer group has.
+223.76s: The type of people you hang out with, you'll start working on the same direction
+229.04s: and this is present in your sub-conscious mind. Now it's not like, you made 4 friends
+232.77s: they just focus on roaming out, right, they have their father's business
+236.23s: and you've to take placement, you'll think that - fine, I study at home. It's fine if I hangout with this group.
+242.46s: But it will impact your sub-conscious mind, right! So make sure that you make group with like minded people
+248.74s: and I'm not saying that something is wrong or something is right. There might be some people who
+252.56s: want to do business in future. They've enough money, they don't want to get a job
+255.86s: if you want to go in that circle, then make sure that your situation is also same.
+260.04s: If you want to take placement, right, like me, even I wanted to get placement
+263.20s: then make sure that you hangout with such people who are working on the same direction. It is very important.
+268.01s: Now let's move on to the 2nd most important thing - CGPA.
+271.57s: Now when you go to college, then if your college has a good system then seniors will come to you
+277.04s: they'll tell you that - I'll give you a campus tour and I'll tell somethings along with it.
+282.12s: Among these, maybe, some people would tell that CGPA is not that important.
+287.45s: Your skills matter, right! Skills matter a lot, I agree but CGPA is also very important
+293.76s: specially if any of the companies come in your placements
+296.80s: whether it is giving 5 LPA or 15 LPA, they'll have a CGPA criteria.
+301.57s: because they can't take interviews of all the candidates.
+305.43s: Right! For that they keep a criteria that - we need above 7.5, 7.0
+310.84s: so earlier we used to say that if you've a CGPA of 7.0 - 7.5, it's a safe zone
+316.26s: lot of companies - 80% of the companies are open for you. There'll be some selective companies
+320.36s: which would be asking for 9 CGPA but fine, ignore them for now.
+324.04s: But in the current era, this competition has increased even more.
+327.69s: Now you need atleast 7.5 - 8 CGPA, if you want to sit for on-campus in most of the companies.
+334.70s: So make use you work on CGPA, now seniors who advice you
+338.68s: ask them the year in which they're in. They'll tell that they're in 2nd year or 3rd year
+342.88s: they might have not got placement themselves, so you've to listen lot of things from others
+347.49s: and ignore some of the things as well, like here it's CGPA.
+350.43s: Start working on your CGPA, if your goal is to do masters instead of placement
+355.36s: you've to definitely work hard, you've to get 8+, 8.5, 9 - get whatever you can, if you want to do masters.
+362.03s: Right! I'm telling this about placement, the minimum range has to be 7.5-8
+365.68s: if you go below that, then maybe you'll face some difficulty.
+367.81s: 3rd important point is - Be versatile and open-minded. Now I know that
+371.89s: lot of people have boundaries set for themselves - that I've to talk to these type of people only.
+375.74s: I don't want to interact with other people.
+377.86s: And specially, this case happens with students who have studied from govt. school
+380.99s: like me, even I studied from a govt. school which was an English medium, of course,
+385.40s: Kendriya Vidyalay is English Medium but we didn't speak English much,
+388.33s: so we had lot of hesitation in talking to seniors or teachers. Sometimes - like I couldn't have a bigger circle.
+394.60s: But you don't have to do this, you've to talk to people and improve upon your communication skills.
+399.93s: Otherwise, you'll face difficulties in interviews, you'll know the solutions, you'll be technically very strong but
+404.70s: you won't be able to communicate with the interviewer.
+406.58s: You won't be able to talk, that hesitation will remain inside you. So, put yourself in this uncomfortable
+411.70s: situation, this is a very uncomfortable situation - I know, you don't want to talk but
+416.19s: talk to people, okay! Spend some time in hanging out, talk to people
+421.16s: now I'm not telling you go with anyone & make a peer group like that - No!
+425.40s: But you've to talk, you've to communicate and try to speak in English.
+430.03s: Even if you're from a Hindi medium background, then if you'll speak even a little of English only then you'll be able to learn
+434.00s: till the time you get your placement, you can practice this.
+436.97s: Now, we've heard what we should do. Let's also see what we shouldn't do.
+440.90s: And listen to this more attentively.
+443.33s: First thing is, everyone bunks in colleges. Even I bunked classes, even mass bunks have been carried out
+449.50s: but what do you do after bunking matters the most. So I used to go to library
+454.97s: sometimes, we would go to the ground to play but most of the time, we're studying in the library or
+459.13s: I used to solve coding questions in canteen because I was clear that I've to crack placement.
+463.86s: Lot of people bunk classes & get out of college
+466.48s: or they start having fun after bunking, they waste the entire time.
+469.16s: You shouldn't do that. And if your instructor of that particular lecture, if he is good
+475.69s: then don't bunk classes because you need CGPA, you've to study theoretical subjects as well.
+481.09s: Right! It is better to study that thing in the class, so that you don't rush a night before class - that
+487.13s: I'm studying a day before, my friend is teaching me - study those things in the class.
+491.69s: So either don't bunk & if you're bunking then, utilize that time properly.
+495.84s: Now with this, I'll come to the next point that - many people have the habit of studying a day before, a night before
+501.57s: the exam, people even show it off that - I studied a night before and see, I got this much marks
+506.54s: I got passing marks, so don't do that. It's like a lottery that you're playing 
+713.00s: and start improving your communication skill, your personality by taking to people.
+717.41s: The more people you interact with, more you people talk to, more your communication skill & personality will improve.
+723.89s: Now, there's a blocker. How can we go and talk to someone if other person might not be interested in talking to us.
+729.02s: No problem! Try it once. Say, 'Hi, 'Hello' - tell about yourself, your school
+733.45s: which direction are you interested in - that - I've thought about that after college, I want to go to Google.
+739.05s: or I've thought of making a startup in AI.
+741.79s: What is your thought process? Tell us about yourself as well.
+744.07s: Talk to them, nobody will judge you in such a bad way that you'll face some loss due to it.
+748.50s: And even if they do, what will happen!?
+749.76s: It's just a conversation, right!
+751.41s: So do it, okay!
+752.77s: You have to get it done.
+753.94s: Second thing is , Societies and Clubs.
+755.61s: Now here, in the 1st semester itself lots of seniors & members of society come to tell you
+760.21s: what their society does. It can be drama society, it can be dance society
+764.64s: coding, robotics - there're many such societies & clubs in college.
+769.33s: Now you've to make sure which one you want to go in, which one to join & if you don't know then explore each one
+774.11s: try talking with everyone that - what happens here?
+776.61s: So with this, even outside the classroom you'll have a different network, there also you'll meet seniors
+782.06s: they might help you in the resume or anything, right!
+785.65s: So you've to make sure that you're choosing the right society, things are actually being done there.
+789.33s: If you're interested in drama, then see what they're doing in drama
+792.57s: if you're interested in coding, then see which all things they're working on, what do they teach.
+796.13s: Okay!
+796.80s: Don't waste most of your time in societies that instead of classes you're doing society's work.
+802.17s: Right! Due to that you're not even preparing your own & your class studies are also being left out.
+807.00s: So utilize your time. I'm telling you about it so that you get that exposure, that's why you've to join societies.
+813.00s: Not that you're wasting your entire time there. Now let's talk about academics as well, so 1st semester is a
+817.82s: very good time to work on your CGPA because here you've light weight subjects. There're some things
+822.49s: which you already know like Physics, Chemistry, Maths.
+825.06s: So there's not much burden here, you're not preparing for placement from now.
+829.06s: Make sure that you focus on CGPA, try to bring it as much as possible.
+834.03s: Study beforehand, like, until now you had been studying sincerely, do it that way.
+837.47s: If you weren't studying sincerely, then start now because now you've new life to explore
+842.65s: you've to make it better.
+843.98s: So the roadmap that I'm discussing with you - one thing is clear that to get a good job you should have a strong
+849.93s: skillset because in the current era, companies are focusing more on your skillset rather than CGPA.
+856.70s: Now even I thought that to improve the skillset, to built it - is the work of colleges because there we spend
+862.60s: our 4 years and a good amount of fees but syllabus of most of the colleges is outdated
+867.20s: with which your basics get cleared but you don't have a job level preparation. So that's why
+871.95s: like me and other people who become engineers, you'll have to prepare for everything yourself.
+877.35s: But if you're at a phase where you're still searching for a college, right now then you can explore
+882.63s: Mirai School of Technology - Now how is this different from other colleges?
+886.09s: They have an up-to-date curriculum which has been made regarding the present & future job requirements.
+891.61s: For example, they've AI & Robotics in their curriculum and that too not only theory
+896.29s: you will actually make Chat bots like Chat GPT & functional robots in AI labs.
+900.94s: They've got pretty good infrastructure for all these tecs which includes latest virtual reality
+905.44s: Goggles, Apple powered labs, Macbooks and Debugging zones. It is a big different from
+910.23s: your traditional colleges where earlier, you were taught other subjects like Physcis, Chemistry, Mathematics.
+915.60s: Here, you start coding since the 1st semester itself, starting from basics of programming to generative AI
+920.97s: you will get future ready for the job ready and you don't do it alone. For every technology, you also have
+925.87s: mentors who have worked first hand in that tech in actual companies. In every semester, there will be hackathons
+931.66s: and companies will see your projects. By the end of the college, you'll have degree but apart from that
+937.11s: you'll have skills, lot of projects on resume & Github repos.
+942.09s: So if you're interested in tech and if you're looking for a college, you can consider
+945.98s: Mirai School of Technology. To take admission here, you've to give a test which is
+949.90s: Mirai National Screening Test
+951.71s: and on the basis of the test, you'll also get scholarship.
+954.37s: Last date to apply to this exam is -15th July. And exam is on 16th July
+959.64s: so make sure, if you want to appear for the exam, apply before 15th.
+963.76s: I've provided the link in the description. You can go and check it out.
+967.11s: Now let's process ahead with the video.
+970.06s: 1st year - 2nd semester!
+971.50s: Until now, you might've been comfortable with the college environment, you would have known
+974.99s: what is good for you, what is bad for you, which group is good, which group is bad for you.
+979.63s: Now, it is time to decide what you want to do in future. If you want to go to research side
+985.37s: or you want to get a job or you want to do Masters
+988.81s: now you've to decide this & you've to start working on it.
+992.35s: Majority of you will decide to get a job in a good company but even here, there're multiple options for the job
+999.20s: there's job in tech, non-tech & even in tech, there're multiple fields
+1003.37s: there's data science, data analytics, software developer, frontend engineer, backend engineer.
+1009.06s: Machine Learning Engineer. There're lot of profiles, I've discussed all these profiles in a video
+1014.41s: and I've also told there, which skillset should you work for that, what all should you know,
+1020.19s: so basically, I'll provide the link to that video in the description where you'll get a good idea
+1024.31s: that which options you have. So watch the only after this video, now focus on this and
+1029.58s: watch this video till the end.
+1030.72s: Now no matter which field you want to go in, you should know atleast one programming language.
+1035.59s: Although you've lot of options but I would recommend to start with either C++ or Java.
+1041.43s: Right! If you learn one programming language, then you can easily learn the other one.
+
+1332.92s: his rank is 3000/2000 - he is from India.
+1335.86s: You can talk to that guy because he can helo you even better, rather than those
+1340.02s: whose rank is under 100, a person who is just above you will help you better.
+1344.87s: So make connections and interact with them on LinkedIn, if they give their LinkedIn ID or search them on LinkedIn.
+1350.37s: Okay! So I'm telling you all this - these are very basic but people often miss these things.
+1354.36s: This will impact your learning journey a lot.
+1358.23s: 2nd year, 3rd semester!
+1360.11s: Now you've to work on your core skills. By core skills, I mean you've to learn development.
+1364.97s: It could be web development, android, machine learning, gnerative AI which is a new field,
+1369.59s: data science, data analytics, data engineering - wherever you're interested. Whatever you've decided for yourself
+1375.36s: you've to work on that, right! There're some free resources which I'll add in the description for you.
+1380.96s: So you've to start learning from there. After learning, start making projects on that.
+1386.97s: Right! Because one is - you studied HTML, CSS, JavaScript,
+1392.23s: you soent 3-4 months to study these, then you forgot it. Then you'll study the same thing again.
+1396.73s: It is better to implement something alongside. You'll face new problems there.
+1402.13s: You'll get new challenges, how will you resolve those - that is the actual learning
+1405.44s: Okay!
+1406.51s: So you've to do projects alongside, but you've to make good projects later as well for resume
+1410.44s: which I'll tell you. But while you learn, amke sure that you implement something.
+1414.86s: Okay! Now let me also give you market perspective here.
+1418.00s: So android, web dev, data analytics - there're lot of opportunities in these fields even for freshers.
+1426.01s: Because people are often hried as a fresher, as an SDE 1 and then they climb the ladder.
+1430.37s: On the other hand, machine learning - generative AI requires good, specialized people.
+1436.27s: So the companies prefer to hire such a machine learning engineer or generative AI engineer
+1442.07s: who has made projects at a good level or they'ev done higher studies or he has some experience in the past.
+1447.64s: So for now, the scenario of the market is like - I know it is going to change very soon
+1451.33s: companies will focus more on hiring generative AI engineers, machine learning engineers
+1455.61s: even at the freshers level, many companies have already started doing this.
+1459.26s: But for now, the now I'm putting forward the current market scenario, fairly before you.
+1463.38s: That web dev, android, data analytics - these skills are the ones which will make you market ready
+1470.54s: so in the current era, people are getting lot of opportunities in it. If you've orientation towards research even little bit
+1475.33s: then defintiely learn machine learning, deep learning, neural networks, generative AI - all these things
+1480.17s: data science and all, will help you a lot in making a good research project.
+1484.27s: And to get admission into a very good university outside India as well.
+1487.49s: You've to also take care of one thing in 3rd semester that, you shouldn't break touch with DSA.
+1491.44s: DSA is very volatile. You know volatality?
+1494.43s: It would evaporate very quickly, if you won't do it for 1-2 months, it'll get out of your mind.
+1500.49s: Then whatever data structures & algorithms you've learnt, whatever questions you practiced
+1504.50s: you'll forget all of that.
+1505.75s: So you've to keep doing DSA throughout, whether you're doing 1 question a day or doing revision
+1510.49s: don't loose touch, okay!
+1512.84s: 2nd year, semester 4!
+1514.43s: Now you've to present your skills in terms of projects, hackathons, competitions.
+1520.40s: In lot of college, hackathons are conducted. There's a platform named - Unstop - you can participate in
+1525.80s: hackathons even there. Make a team with like minded people, with developers like you and particpate in hackathons
+1531.53s: it could be inter-college, it could be inter-region. Basically, multiple colleges come there
+1536.31s: compete among themselves. You'll have networking, you'll learn new things, meet new people and
+1541.84s: along with that, you can actually showcase your skills.
+1544.79s: And if you win hackathons, then many companies hire you directly through hackathons as well.
+1549.41s: Definitely, if I had to hire people for my company then I would look at the projects they made in hackathons
+1554.83s: what have they actually worked on, what have they implemented,
+1557.86s: how do they work in group, so definitely participate in hackathons.
+1563.13s: You've to make your own personal projects, particpate in hackathons as well
+1567.20s: just explore all the possible ways, particpate in offline hackathons, if it is conducted online then
+1571.74s: particpate in online ones, okay! After this 4th semester, opportunities for doing internships also open up to you.
+1577.14s: So we've to start working on our resume & portfolio. If you're doing development
+1581.97s: definitely make your own portfolio, make your resume, the hackathons you participated in, the prizes you got
+1587.93s: the projects you made, the learning which you did - list down all of it on your resume.
+1592.10s: Making a resume is also an art, basically! Because in the currennt era, lakhs of resume are
+1596.06s: submitted for just a few opening, so that's why resume should be good.
+1600.60s: It should be crisp, concise, clean, consistent.
+1603.91s: So, I've made a video on resume. The resume which got me into Google, which was selected in Google.
+1608.64s: So you can watch that video as well. Watch it when you need, I'll also provide its link in the description.
+1614.78s: If you develop more interest towards competitive programming on CodeChef, CodeForces then
+1618.84s: you can double down into competitive programming as well. This will also help you in cracking lot of
+1623.57s: companies like Google, Uber, Facebook - it'll help in this a lot.
+1626.94s: So you can focus on competitive programming as well. Now after 2nd year's 4th semester also, there's a summer break
+1632.03s: in which you've to do internship. You'll have to start finding this internship before itself,
+1635.88s: you'll have to find it in your 4th semester itself.
+1638.29s: So those who're interested in research, they can look for IIT professors which're working on relevant projects
+1643.66s: apply for research internship under them.
+1646.23s: Those who want to do job, they can target startups. They can reach out to founders of startups
+1651.91s: recruiters or a senior engineer in that startup - they can reach out to them.
+1655.97s: And tell that I've worked on React or I've worked on backend, I've made these many projects
+1661.71s: on hackathons, I even got a prize. I've also made personal projects as well.
+1665.46s: Now you'll be able to say this when you've actually worked, if not then you won't be able to tell them anything.
+1670.20s: They already have lakhs of candidates to review. So you've to first work
+1674.24s: and then tell them that, what have you exactly worked on
+1677.51s: try to convince them, if you'll reach out to 50 people then 1 among them might agree.
+1681.80s: Right!
+1682.39s: So you've to reach out to so many people and tell them that you want to work with them.
+1686.64s: Now, you can try for a paid internship but even if you don't get a paid internship
+1690.29s: then you can do internships even for free. There's nothing wrong in it.
+1693.59s: If you're getting an internship of Rs 15,000 or Rs 20,000 for 2 months
+1698.43s: which is an insignificant money, right! And there's no learning - rather it is better to do an internship
+1703.21s: where you get good learning, you're working with good seniors - you're getting to learn good codebase.
+1708.76s: Then you can go for such a free internship as well.
+1711.64s: To search internships, there're different platforms - you can also visit InternShala, where people post small internships
+1718.16s: you can use LinkedIn, make sure to make a goood profile on LinkedIn, be active on LinkedIn
+1723.30s: reach out to founders & recruiters there.
+1726.92s: Share them your resume. You've to make it through, you've to try to get an internship in 2nd year
+1732.07s: if you get this then, a huge barrier will get cleared because for full time companies are looking if
+1738.01s: you've done internship or not, right! So this is a very important point. Try it anyhow.
+1743.47s: Talk to as much people as you can.
+1745.36s: Let me give you a reality check before moving forward.
+1748.29s: So tier 3 colleges vs tier 1 colleges
+1751.24s: what is the difference?
+1752.29s: Tier 1 colleges have a good reputation, those who've brought good rank in JEE advanced, JEE Mains
+1757.57s: go there, so companies have a mindset that - we can go off-campus and hire the cream-layer.
+1764.26s: Right!! Even there they don't hire all the students, they take a cream layer.
+1768.41s: Rest of the students, then try off-campus for other companies or the remaining companies
+1773.27s: which gives a package of Rs 10-12 lakhs, they go there.
+1776.07s: In tier 3 colleges, companies with Rs 5-6-8-10 lakh of packages already visit.
+1781.27s: But the good layer of companies - Google, Microsoft, Amazon - they don't visit.
+1785.81s: This is the difference between tier 1 and tier 3 colleges.
+1788.44s: Why don't they visit?
+1789.74s: They feel that, maybe our requirement will be filled with tier 1 colleges where students have already
+1794.57s: set a credibility, they've brought a nice rank in JEE. So they feel that if they take interview of 100 people
+1801.09s: in tier 1, then they'll get atleast 10 among the 100.
+1804.01s: Here, to find 10 people we would have to interview 500 people.
+1807.16s: That is the challenge. This is not the challenge that - you'll get good candidate in tier 1 itself
+1812.37s: and not in tier 3. Let me tell you from my own experience. All the podcasts which I've conducted
+1816.64s: I've done lot of podcasts - tier 3 to Google, tier 3 to Microsoft, Amazon - some people go directly
+1821.79s: after college, some people go to Google, Microsoft after working somewhere for 1-2 years like TCS
+1826.96s: most of the people who're working in these companies, you will feel yourself, if you all want to join
+1832.50s: these companies, you will feel yourself that - 50-60% people i your team are from tier 3 colleges.
+1837.79s: Those who have studied from a tier 3 college, worked somewhere else and directly joined Google.
+1841.82s: Because they put in efforts, did competitive programming, did DSA properly, did development properly
+1847.87s: they did all of the requirements in time. So you don't have to get discouraged.
+1852.94s: You don' have to feel like - I'm in tier 3, so I don't how much of my chances have reduced. Even now
+1856.99s: everything is in your hand, 4 years is a lot of time. Within 2 years, as I told you about the roadmap of 2 years
+1862.87s: this is sufficient to learn development, to learn DSA, competitive programming, if you want to go to research
+1867.94s: it's a lot of time, right! You get 3 years, 4 years in BCA, B.Tech respectively, right!
+1872.67s: But if you follow these things while focusing, you don't have to worry about it
+1877.09s: that you belong to a tier 3 college.
+1879.24s: On-camous placement might not be that great for you. You can grab a package of Rs 10-12 lakh from there
+1884.27s: you can do in off-campus better.
+1886.37s: Right! So let's cover the rest of the roadmap.
+1890.79s: 3rd year i.e. 5th & 6th semester!
+1892.72s: For them, I'll combine and tell you.
+1894.83s: Basically, if you did summer internship in summer breaks, right after your 2nd year
+1899.30s: it is very good, otherwise you can also try in 3rd year so that you can get a good internship.
+1904.10s: Lot of colleges will let you go for internships, they'll give you a grace time to do a 2-months internship
+1909.99s: or 6 months internship, if it's a paid internship. So try to search for such an internship in 3rd year.
+1915.78s: If you've already done, search it again to do internship again. And if you didn't get internship in summer holidays
+1920.25s: then again search for these internship, make sure that you don't loose touch. Keep doing DSA
+1925.23s: keep making projects in development, keep revising things as well.
+1929.39s: And one more important thing comes here because after some time, you'll try for full-time opportunities
+1934.83s: then there're 4 fundamental subjects - Object Oriented Programming, Database & Management System
+1939.94s: Operating system and computer networks. Although there're lot of subjects in computer science but
+1944.24s: these are the 4 subjects from which questions are actually asked in interviews.
+1948.51s: It could be in the form of MCQ, face-to-face interviews as well. So, you'll have to prepare these 4 subjects
+1955.30s: if you're studying software engineering, IT, computer science
+1958.83s: then you'll have these subjects but let's say if you're studying mechanical, electrical then you'll have to do
+1963.36s: these subjects yourself, if you can choose them like electives, good.
+1967.10s: Otherwise, you've to do these 4 subjects yourself, study through books there's no problem.
+1972.13s: If you're from software branch or IT branch, then these subjects would already be covered there.
+1976.21s: So pay attention while these subjects are covered in the curriculum.
+1979.50s: If you're from electrical, mechanical, civil - then in that case, you've to do these subjects by yourself.
+1985.13s: Either you can study from same book like computer science students
+1988.53s: or I'll give you a list of few playlists. There's Neso academy, where these fundamentals subjects are covered properly.
+1995.61s: There're couple more youtube channels, I'll give you the link in the description.
+1998.74s: Now in summer break after 3rd year, we've to do internship in such a company
+2003.20s: from where we have high chances of getting a PPO.
+2005.53s: Now what is PPO? It is Pre placement Offer.
+2007.90s: Basically, this is a guarantee through company that, let's say you worked properly in a company
+2012.79s: then that company guarantees you that as soon as you complete the 4th year
+2016.09s: we'll give you full time offer after that. Salary, joining date and all - are already decided in most of the cases.
+2021.66s: So let's say if you've worked with me at my company - Learnyard - then I'll tell you to do a 2 month internship
+2026.85s: if you'll perform better, then I'll give you pre placement offer i.e. when you'll complete 4th year
+2031.41s: I'm going to give you an offer of Rs 15 lakh or Rs 20 lakh. Joining Date will be 15th of July or 30th July - whatever
+2038.16s: so this is a PPO, you've to target this so that your 4th year would be chill. Although, we'll still work hard then
+2044.34s: and try to crack more good companies. We'll try to have multiple offers in our hand.
+2049.20s: But when you get one offer, then tension ends that - now I won't graduate un-employed from college.
+2055.70s: So this is something very important that you have to do in the summer holidays.
+2059.44s: Let's move to 4th year - 7th & 8th semester.
+2062.21s: Now those who already work hard in first 3 years, they don't need to do a lot in 4th year.
+2211.31s: So see you again in the next video! Till then - Bye Bye!
+2213.49s: Take care!
