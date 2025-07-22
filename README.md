@@ -45,8 +45,7 @@ Bash
 
     pip install -r requirements.txt
     (If you don't have a requirements.txt yet, create one with the following content and then run pip install -r requirements.txt):
-
-requirements.txt content:
+    requirements.txt content:
 
 google-generativeai
 youtube-transcript-api
@@ -94,8 +93,8 @@ Run the Python script:
 
 Bash
 
-python main.py
-(Replace main.py with the actual name of your Python file).
+        python main.py
+        (Replace main.py with the actual name of your Python file).
 
 This will execute the code within the if __name__ == "__main__": block, fetch the transcript for the hardcoded VIDEO_ID, and print the summary to your console.
 
@@ -119,8 +118,8 @@ Start the Uvicorn server:
 
 Bash
 
-uvicorn main:app --reload
-(Replace main with the name of your Python file without .py extension).
+        uvicorn main:app --reload
+        (Replace main with the name of your Python file without .py extension).
 
 main:app means "look for the app object in main.py".
 
@@ -140,7 +139,7 @@ Set the HTTP Method: Choose GET.
 
 Enter the Request URL:
 
-http://127.0.0.1:8000/summarize?url=YOUR_YOUTUBE_URL
+        http://127.0.0.1:8000/summarize?url=YOUR_YOUTUBE_URL
 Example:
 If you want to summarize a video with the URL https://www.youtube.com/watch?v=dQw4w9WgXcQ, your Postman URL would be:
 
