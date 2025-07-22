@@ -82,12 +82,12 @@ Navigate to your project directory:
 
 Bash
 
-cd path/to/your/project
-Activate your virtual environment (if you created one):
-
-On Windows: .\venv\Scripts\activate
-
-On macOS/Linux: source venv/bin/activate
+        cd path/to/your/project
+        Activate your virtual environment (if you created one):
+        
+        On Windows: .\venv\Scripts\activate
+        
+        On macOS/Linux: source venv/bin/activate
 
 Run the Python script:
 
@@ -107,12 +107,12 @@ Navigate to your project directory:
 
 Bash
 
-cd path/to/your/project
-Activate your virtual environment:
-
-On Windows: .\venv\Scripts\activate
-
-On macOS/Linux: source venv/bin/activate
+        cd path/to/your/project
+        Activate your virtual environment:
+        
+        On Windows: .\venv\Scripts\activate
+        
+        On macOS/Linux: source venv/bin/activate
 
 Start the Uvicorn server:
 
